@@ -1,0 +1,89 @@
+{
+  "program": {
+    "candyMachine": "9jpbUmupjRav4bxbMXxkanhK9nQG3XKMbxJHAERMLDqc",
+    "candyMachineCreator": "8iLrxDNszzV1TPNcjeqxoS3x41BHxBJCktc5Z5m2GcBU",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Polo #0001",
+      "image_hash": "feee275c9ad675a402e2c70a8b31ba90ed0e19eaa581e8a617f246fb67bba3a2",
+      "image_link": "https://arweave.net/kvGlxKf_QeCQ18fhxb_NDuftKA5cP4z3cVI86EWF3aE?ext=png",
+      "metadata_hash": "e166faa52f5353a35d244e8568a760f96644abb0a374c0b0f8788427f98ba28e",
+      "metadata_link": "https://arweave.net/ezb5vNp04b4LjdADxo4emZTwDpcuCfB346cNOsvF1cY",
+      "onChain": true
+    },
+    "1": {
+      "name": "Polo #0002",
+      "image_hash": "0c2ce666a7478bfb142449aea6a65cd5a6e3203d2e0607c86a6e621756205a06",
+      "image_link": "https://arweave.net/_AhoabDKusGRURWF2Kdat5xcWuiQlF34LzvAS_Dl51M?ext=png",
+      "metadata_hash": "cd8372f9563525750d11facfda393d2b3ad0673f930f4434768c9b7944761365",
+      "metadata_link": "https://arweave.net/EwmyX0N0lwluZJCvfWKujHyeqkAh0AoM1xRXjzF2i9I",
+      "onChain": true
+    },
+    "2": {
+      "name": "Polo #0003",
+      "image_hash": "bae039e2dc06ed4936606c380eb1e3e35c9437e7c77a1b5ff94c6c3bd0389fa7",
+      "image_link": "https://arweave.net/qPKf03Ab5KVP-hkz3HH6kcB5o_-avGbPanBNo0Kn5K0?ext=png",
+      "metadata_hash": "e5b3d9a323e27c4e7066cb30417dd97d3eb16180de2e4a9a72a656b921213db0",
+      "metadata_link": "https://arweave.net/yqKRQVbnEQnmZYcpZtbSvfugjQ02KxEQ52HRvYrCcUo",
+      "onChain": true
+    },
+    "3": {
+      "name": "Polo #0004",
+      "image_hash": "68f8c55ee79080c49c25db9091f00493c214607dd1062fc2cde43475b824fdb5",
+      "image_link": "https://arweave.net/o682kRwAaYM3KoyOaYCD0YlvViGROi6QYQeOjnQB3AM?ext=png",
+      "metadata_hash": "5c30d8de6c60cf8620c6e770a8d090bc8112e6a7d706c8d9f573899815b672bc",
+      "metadata_link": "https://arweave.net/IyzBAFPrnxDOykaRwBRlav0dpGm7euNpeG_-rPiBiME",
+      "onChain": true
+    },
+    "4": {
+      "name": "Polo #0005",
+      "image_hash": "8d0b50708dc9e0d0446411ecdef992f70307527b6f7a81b9934cc7ba08ef55ad",
+      "image_link": "https://arweave.net/02XUmGjrqN2rX9vUtAVQJhD0bZgRj189FL_sKcl8lK0?ext=png",
+      "metadata_hash": "4ab7e19c63c83cc435d1df375fda588aff8916c73575080eaab722ad7d51efa9",
+      "metadata_link": "https://arweave.net/HU1hDya7Wm-43_DhKT31wPokDBO9Cv25tTjX_YkaGsQ",
+      "onChain": true
+    },
+    "5": {
+      "name": "Polo #0006",
+      "image_hash": "63ee8c7397410996fc72bac66cca9328d8627fb630eb4f24e6703efd46afc1bc",
+      "image_link": "https://arweave.net/BzFECgG5eTopL26DIg3xigLy1QP5YU-dUz5Yytk3SOk?ext=png",
+      "metadata_hash": "a92b66fda81497ce2bd5b4521458111774c00dffbddcade39fcc579fc3ac8428",
+      "metadata_link": "https://arweave.net/n2_e8fJfn7vM_dJROzSzcL6cWYC-mBsJIvoG0v8QA1o",
+      "onChain": true
+    },
+    "6": {
+      "name": "Polo #0007",
+      "image_hash": "a76458dc5cb4688c69e671b8fc55a31b0a119a03ea9febf3c877e5814bf6ed3a",
+      "image_link": "https://arweave.net/n0PdETemDHoMaCV5x_tDf-efRl1_z78TTU_SpsaU_Z8?ext=png",
+      "metadata_hash": "596069ec4d8a68814fab9743e1fa8b61822468f9f224bf7885d99f7552eba64e",
+      "metadata_link": "https://arweave.net/CazLON_kfB3t2_VQ7hLZs-S4MAZ93lFU_eDUvhf4wg8",
+      "onChain": true
+    },
+    "7": {
+      "name": "Polo #0008",
+      "image_hash": "0ba3726c30faa979f133cf976009aa864dfd25920bf30a1b4a96c691a1c86ead",
+      "image_link": "https://arweave.net/vz01fc8nlz4RREjx25AsncqdkOLGIh90oNlrLWjPvgI?ext=png",
+      "metadata_hash": "527807864caa4b3205582e98b0ba21f19b81c4a068d6f40dcb0b73086d3f0586",
+      "metadata_link": "https://arweave.net/sFAjwVGCZ1elez9gRQPPlBwjrwbQbDTkxTz1xZtbaEk",
+      "onChain": true
+    },
+    "8": {
+      "name": "Polo #0009",
+      "image_hash": "896c1746e2da651a39da2e51030cd331c4901d19a63482afe134d5078231b6dc",
+      "image_link": "https://arweave.net/JkS6VAvW6YZIHo4qjAEqK9PBzCL5KTkUKRdkCVLAQjs?ext=png",
+      "metadata_hash": "08ec5757ce56bc2333e1cdb6f6495bdeeb43e21d57bfcfd213991125a992511c",
+      "metadata_link": "https://arweave.net/H6jV57BwCwXp2ciKkGAzSCk4qfunz7zquf6-48n1L3M",
+      "onChain": true
+    },
+    "9": {
+      "name": "Polo #0010",
+      "image_hash": "cde55562175735cc005140ba5f242f749b133a55b25e0c18cf1b054df6c12805",
+      "image_link": "https://arweave.net/Ip78RchXu9Yp3kTzNomRukj5QUqnqRbph6y6QkC6fqE?ext=png",
+      "metadata_hash": "d0bc94e28d4fd711031d66594bc059674bc348a37c575d0936437df14242f39f",
+      "metadata_link": "https://arweave.net/oPCGm_VBM3vTz5Rj3L_GwVJqgSJDqMzTFrSKX6Dbghk",
+      "onChain": true
+    }
+  }
+}
